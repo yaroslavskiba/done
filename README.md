@@ -115,7 +115,7 @@
         invertCase('Hello, World!'); // hELLO, wORLD!
         invertCase('I loVe JS');     // i LOvE js
         
-Подсказки
+<h3>Подсказки</h3>
 
 Чтобы узнать длину строки, используйте свойство length:
 
