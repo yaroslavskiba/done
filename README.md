@@ -145,3 +145,15 @@ If anything in the text isn't a letter, ignore it and don't return it.
 
         alphabetPosition("The sunset sets at twelve o' clock.")
         Should return "20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20 23 5 12 22 5 15 3 12 15 3 11" ( as a string )
+
+<hr>
+
+<h2>sumLow.js</h2>
+
+Create a function that returns the sum of the two lowest positive numbers given an array of minimum 4 positive integers. No floats or non-positive integers will be passed.
+
+<h3>For example</h3>
+
+when an array is passed like [19, 5, 42, 2, 77], the output should be 7.
+
+        [10, 343445353, 3453445, 3453545353453] should return 3453455.
