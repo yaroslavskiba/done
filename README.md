@@ -190,7 +190,7 @@ Note: The function accepts an integer and returns an integer
 
 <hr>
 
-<h2>multiples</h2>
+<h2>multiples.js</h2>
 
 If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
 
