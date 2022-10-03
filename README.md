@@ -157,3 +157,16 @@ Create a function that returns the sum of the two lowest positive numbers given 
 when an array is passed like [19, 5, 42, 2, 77], the output should be 7.
 
         [10, 343445353, 3453445, 3453545353453] should return 3453455.
+
+<hr>
+
+<h2>sortRectangles.js</h2>
+
+In this kata you will be given a sequence of the dimensions of rectangles ( sequence with width and length ) and circles ( radius - just a number ).
+Your task is to return a new sequence of dimensions, sorted ascending by area.
+
+<h3>For example</h3>
+
+        const array = [ [4.23, 6.43], 1.23, 3.444, [1.342, 3.212] ]; // [ rectangle, circle, circle, rectangle ]
+        sortByArea(array) => [ [ 1.342, 3.212 ], 1.23, [ 4.23, 6.43 ], 3.444 ]
+        
