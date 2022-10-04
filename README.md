@@ -215,3 +215,15 @@ Implement the function which takes an array containing the names of people that 
 Note: For 4 or more names, the number in "and 2 others" simply increases.
 
 <hr>
+
+<h2>uniqueInOrder.js</h2>
+
+Implement the function unique_in_order which takes as argument a sequence and returns a list of items without any elements with the same value next to each other and preserving the original order of elements.
+
+<h3>For example:</h3>
+
+        uniqueInOrder('AAAABBBCCDAABBB') == ['A', 'B', 'C', 'D', 'A', 'B']
+        uniqueInOrder('ABBCcAD')         == ['A', 'B', 'C', 'c', 'A', 'D']
+        uniqueInOrder([1,2,2,3,3])       == [1,2,3]
+
+<hr>
