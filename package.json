@@ -1,5 +1,5 @@
 {
-  "name": "hexlet-done",
+  "name": "done",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yaroslavskiba/hexlet-done.git"
+    "url": "git+https://github.com/yaroslavskiba/done.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yaroslavskiba/hexlet-done/issues"
+    "url": "https://github.com/yaroslavskiba/done/issues"
   },
-  "homepage": "https://github.com/yaroslavskiba/hexlet-done#readme"
+  "homepage": "https://github.com/yaroslavskiba/done#readme"
 }
